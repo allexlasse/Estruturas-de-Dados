@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1550238229 source:c:\users\lab6\desktop\nova pasta\aula_teatro\main.cpp
+	<iostream>
+	"Teatro.h"
+
+1550236774 c:\users\lab6\desktop\nova pasta\aula_teatro\teatro.h
+
+1550607458 source:c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\aula_teatro\main.cpp
+	<iostream>
+	"Teatro.h"
+
+1550619339 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\aula_teatro\teatro.h
+
