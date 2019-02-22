@@ -18,7 +18,6 @@ int main()
 
 
     Theater = Teatro(line,column);
-    Theater.ZerarMatriz(Theater.Linhas,Theater.Colunas);
 
     while(exit)
     {
@@ -44,7 +43,7 @@ int main()
                 }
                 for(int j = 0; j<Theater.Colunas ; j++)
                 {
-                    if(Theater.Assentos[i][j] == true){
+                    if(Theater.Assentos[i * Theater.Colunas + j] == true){
                         cout<<" [X] ";
                     }
                     else
